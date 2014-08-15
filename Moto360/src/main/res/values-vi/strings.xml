@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">360 Circle Widget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="sunset">Sunset:</string>
+    <string name="max">Max:</string>
+    <string name="min">Min:</string>
+    <string name="temp">Temp:</string>
+    <string name="windspeed">Wind Speed:</string>
+    <string name="deg">Deg:</string>
+    <string name="city_name">City name:</string>
+    <string name="title">Exit Application ?</string>
+    <string name="content">Are you exit application?\nYou may want to try the game Choose Color.\nGame very very hard !!!</string>
+    <string name="exit">Exit</string>
+    <string name="more">Try</string>
+    <string name="cancel">Cancel</string>
+</resources>
